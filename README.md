@@ -10,6 +10,5 @@ git clone https://github.com/CyrilHancock/Dice-game.git
 And to play just opening **index.html** in any browser
 ## Wanna Play Now
 Visit "https://cyrilhancock.github.io/Dice-game/"
-
-Preview
+## Preview
 ![This is an image](/images/dicepreview.png)
